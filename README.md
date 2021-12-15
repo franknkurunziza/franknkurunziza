@@ -7,11 +7,14 @@
 I'm Frank a Creative software engineer recently graduated from coding Bootcamp ready to toggle , help develop reliable projects.
 
 ## Skills & Frameworks
-*☕ JAVA, Springboot
+*☕ JAVA, Springboot* |🐍 PYTHON, Django  | 💻 HTML,CSS,JS
 
-*🐍 PYTHON, Django
 
-*💻 HTML,CSS,JS
+
+
+
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franknkurunziza)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ALGO 
 
