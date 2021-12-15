@@ -1,8 +1,13 @@
-- 👋 Hi, I’m Frank nkurunziza
-- 🌱 I’m currently Working on pyhton and Java
-- 💞️ I’m looking to collaborate on projects and become better at what i do!
+### Hi there 👋, Frank Nkurunziza
+#### Software Engineer
+![Software Engineer](https://media-exp1.licdn.com/dms/image/C4E16AQFSZ0cQcO344Q/profile-displaybackgroundimage-shrink_350_1400/0/1635256854589?e=1645056000&v=beta&t=37eaamxDHFXaBgjnuS-Gz4QE-ehGzJCt7Srxq5CoYLA)
 
-<!---
-franknkurunziza/franknkurunziza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Frank a Creative software engineer recently graduated from coding Bootcamp ready to toggle , help develop reliable projects.
+
+Skills: JAVA/Python / JS / HTML / CSS
+
+REACH ME:
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/frank-nkurunziza/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/franknkurunziz1)  
+
+
