@@ -6,8 +6,12 @@ I'm Frank a Creative software engineer recently graduated from coding Bootcamp r
 
 Skills: JAVA/Python / JS / HTML / CSS
 
+- 🔭 I’m currently working on ALGO 
+
+
 REACH ME:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/frank-nkurunziza/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/franknkurunziz1)  
+
 
 
